@@ -275,4 +275,4 @@ plugins:
   - jekyll-include-cache
 
 chulapa-skin: 
-  skin:  hootstrap
+  skin:  chulapa
